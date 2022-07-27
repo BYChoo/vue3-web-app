@@ -52,12 +52,5 @@ export default {
   border-top: 1px solid #ccc;
   border-bottom: 1px solid #ccc;
   padding: .625rem 0;
-  /* text-align: center; */
-}
-.list-item P {
-  /* width: 5.625rem;
-  white-space: nowrap;
-  text-overflow:ellipsis;
-  overflow:hidden; */
 }
 </style>
